@@ -1,0 +1,13 @@
+#: locale=en
+
+## Media
+
+### Title
+model_324C281F_3E5C_FA40_41C9_50217CA98E60.label = Samsung Model Web M1 Centered
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 1
